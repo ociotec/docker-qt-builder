@@ -15,7 +15,7 @@ You can find Dockerfile & rest of support files under Github project:
 
 > https://github.com/ociotec/docker-qt-builder
 
-### Docker hub
+### Docker hub
 
 You can find more info at Docker hub:
 
