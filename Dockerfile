@@ -18,5 +18,5 @@ RUN apt-get update && \
     apt-get install -y git && \
     apt-get -qq clean
 
-RUN mkdir /root/workspace
-WORKDIR /root/workspace
+WORKDIR /tmp
+
